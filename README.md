@@ -367,7 +367,7 @@ Debes generar **dos evidencias** dentro de tu carpeta personal.
 ## 7️⃣ Hito 7 – Enmienda de un commit
 
 ### 🎯 Objetivo  
-Modificar el **mensaje del último commit** utilizando una enmienda, **sin crear un nuevo commit**.
+Modificar el **mensaje del último commit** realizando una enmienda, **sin crear un nuevo commit**.
 
 ### 📋 Instrucciones
 
@@ -389,10 +389,12 @@ Debes generar **un único archivo de evidencia**, dentro de tu carpeta personal.
 - **Contenido:**  
   La salida del comando de Git **antes y después** de la enmienda, de forma que se pueda comprobar el cambio de mensaje.
 
-Al recoger la primera evidencia creamos el archivo de evidencias.  
-> comando git > log_hito7.log
-En la segunda lo modificamos añadiendo la segunda evidencia en el mismo archivo.
-> otro_comando git >> log_hito7.log
+- Al recoger la primera evidencia creamos el archivo de evidencias.
+  ``` bash 
+      comando git > log_hito7.log ```
+- En la segunda lo modificamos añadiendo la segunda evidencia en el mismo archivo.
+  ``` bash
+      otro_comando git >> log_hito7.log ```
 
 ### ✅ Criterios de evaluación
 
