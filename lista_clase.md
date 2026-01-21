@@ -6,7 +6,7 @@ Spñ, NOMBRE
 Grc-Arvl, NOMBRE
 Gmz, NOMBRE
 Gnzlz, NOMBRE
-Hgr, NOMBRE
+Hgr, Oscar
 Lpz, NOMBRE
 Mzcs, NOMBRE
 Mlln, NOMBRE
