@@ -1,0 +1,12 @@
+commit 10acd91768df8d34b896df72c867f3601cd35dad
+Merge: 0e20192 b5291ee
+Author: Oscar Higuera <ohgkpi@gmail.com>
+Date:   Wed Jan 21 20:23:27 2026 +0100
+
+    OSCAR_HIGUERA: Resolver conflicto en lista_clase
+commit 2b131de80f75efd94cc7222bac0fa2d116a2c113
+Merge: 0e20192 b5291ee
+Author: Oscar Higuera <ohgkpi@gmail.com>
+Date:   Wed Jan 21 20:23:27 2026 +0100
+
+    OSCAR_HIGUERA: feat: corregir lista de clase
